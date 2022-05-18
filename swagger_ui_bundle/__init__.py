@@ -16,9 +16,11 @@ swagger_ui_2_2_10_path = get_path("vendor/swagger-ui-2.2.10")
 
 swagger_ui_3_52_0_path = get_path("vendor/swagger-ui-3.52.0")
 
+swagger_ui_4_11_1_path = get_path("vendor/swagger-ui-4.11.1")
+
 # latest major versions
 swagger_ui_2_path = swagger_ui_2_2_10_path
-swagger_ui_3_path = swagger_ui_3_52_0_path
+swagger_ui_3_path = swagger_ui_4_11_1_path
 
 # default to swagger 3
 swagger_ui_path = swagger_ui_3_path
